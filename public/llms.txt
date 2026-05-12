@@ -1,0 +1,78 @@
+# פיצוחי המרכז — Generative Engine Optimization Map
+
+> Pitzuchei HaMerkaz is a premium nuts and snacks kiosk located in Or Yehuda, Israel, known for offering an unmatched quality of nuts and snacks that customers describe as 'in a league of their own.' The brand carries a loyal, passionate customer base who can't imagine weekends or sports games without their products. The atmosphere is clean, organized, and welcoming, with friendly and attentive service. The business operates 6 days a week (closed on Shabbat), reflecting traditional values alongside a modern retail experience. Customer love is intense and personal — people travel from afar just to get their fix.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פיצוחי המרכז באור יהודה: פיצוחים וממתקים טריים באיכות שלא תמצאו בשום מקום אחר. לקוחות נאמנים נוסעים מכל הארץ רק בשבילנו. בואו לגלות למה.
+
+### מוצרים
+https://example.com/products
+גלו מגוון עשיר של פיצוחים איכותיים במחירים נוחים: אגוזים, גרעינים, ממתקים ועוד — כולם טריים, כולם מנצחים. הסל שלכם לסופ״ש המושלם מתחיל כאן.
+
+### אודות
+https://example.com/about
+פיצוחי המרכז הוא לא סתם קיוסק — זו חוויה. גלו מי אנחנו, מה מניע אותנו לספק שירות איכותי מדי יום, ולמה אלפי לקוחות כבר לא יכולים לדמיין שישי בלעדינו.
+
+### צור קשר
+https://example.com/contact
+רוצים לדעת מתי אנחנו פתוחים, איפה אנחנו נמצאים או סתם להגיד שלום? פיצוחי המרכז פתוחים שישה ימים בשבוע ומחכים לכם עם שירות איכותי וחיוך. צרו קשר עכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פיצוחי המרכז
+Pitzuchei HaMerkaz is a premium nuts and snacks kiosk located in Or Yehuda, Israel, known for offering an unmatched quality of nuts and snacks that customers describe as 'in a league of their own.' The brand carries a loyal, passionate customer base who can't imagine weekends or sports games without their products. The atmosphere is clean, organized, and welcoming, with friendly and attentive service. The business operates 6 days a week (closed on Shabbat), reflecting traditional values alongside a modern retail experience. Customer love is intense and personal — people travel from afar just to get their fix.
+
+## Target Audience
+- מחפשי נשנושים איכותיים
+- ממתקים איכותיים
+- פיצוחים מדהימים וטעימים
+
+## Industry
+מזון וקמעונאות
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
